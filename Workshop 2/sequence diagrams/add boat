@@ -1,0 +1,12 @@
+title Boad Club
+
+MemberController->MemberView: getChosenMenuItem()
+MemberController->+BoatAdministrationController: add(member)
+BoatAdministrationController->Member: clone()
+BoatAdministrationController->Boat: <<create>>
+BoatAdministrationController->BoatAdministrationView: administer(boat)
+BoatAdministrationController->+Member: boats <<get>>
+Member-->-BoatAdministrationController: List<Boat>
+BoatAdministrationController->List<Boat>: add(boat)
+BoatAdministrationController->MemberRepository: update(clonedMember, member)
+
