@@ -15,7 +15,7 @@ The diagrams are created per usecase and extends the usecase before them.
 1. [Display Member](display member.png)
 1. [Edit Member](edit member.png)
 
-## Deleate Member
+## Delete Member
 1. [Display Members](display member lists.png)
 1. [Display Member](display member.png)
 1. [Delete Member](delete member.png)
@@ -23,14 +23,14 @@ The diagrams are created per usecase and extends the usecase before them.
 ## Add Boat
 1. [Display Members](display member lists.png)
 1. [Display Member](display member.png)
-1. [Add Boat](add_boat.png)
+1. [Add Boat](add boat.png)
 
 ## Edit Boat
 1. [Display Members](display member lists.png)
 1. [Display Member](display member.png)
-1. [Edit Boat](edit_boat.png)
+1. [Edit Boat](edit boat.png)
 
 ## Delete Boat
 1. [Display Members](display member lists.png)
 1. [Display Member](display member.png)
-1. [Delete Boat](delete_boat.png)
+1. [Delete Boat](delete boat.png)

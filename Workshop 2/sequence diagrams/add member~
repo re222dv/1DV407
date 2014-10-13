@@ -1,7 +1,0 @@
-title Boad Club
-
-MainController->MainView: getChosenMenuItem()
-MainController->+MemberAdministrationController: add()
-MemberAdministrationController->Member: <<create>>
-MemberAdministrationController->MemberAdministrationView: administer(member)
-MemberAdministrationController->MemberRepository: add(member)

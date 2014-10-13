@@ -1,7 +1,0 @@
-title Boad Club
-
-MemberController->MemberView: getChosenMenuItem()
-MemberController->+MemberAdministrationController: update(member)
-MemberAdministrationController->Member: clone()
-MemberAdministrationController->MemberAdministrationView: adinister(member)
-MemberAdministrationController->MemberRepository: delete(member)
