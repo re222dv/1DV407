@@ -1,9 +1,9 @@
 # Boad Club Design
 
 ## Authors
-David Grenmyr
-Rasmus Eneman
-Sherief Badran
+- David Grenmyr
+- Rasmus Eneman
+- Sherief Badran
 
 ## Patterns
 - Information Expert

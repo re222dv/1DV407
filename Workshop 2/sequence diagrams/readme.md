@@ -1,3 +1,4 @@
+# Boad Club Sequence Diagram
 The diagrams are created per usecase and extends the usecase before them.
 
 ## Display Members
