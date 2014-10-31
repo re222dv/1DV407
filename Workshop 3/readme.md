@@ -18,6 +18,7 @@
 ### Received
 - [Eddy Proca](https://github.com/re222dv/1DV407/raw/master/Workshop%203/Received%20Reviews/Eddy%20Proca.pdf)
 - [Eleonor Lagecrantz](https://github.com/re222dv/1DV407/raw/master/Workshop%203/Received%20Reviews/Eleonor%20Lagecrantz.pdf)
+
 ### Sent
-- [Jakob Vångö](https://github.com/re222dv/1DV407/raw/master/Workshop%203/Sent%20Reviews/Jakob%20V%C3%A5ng%C3%B6.pdf)
+- [Jakob VÃ¥ngÃ¶](https://github.com/re222dv/1DV407/raw/master/Workshop%203/Sent%20Reviews/Jakob%20V%C3%A5ng%C3%B6.pdf)
 - [Kristoffer Lind](https://github.com/re222dv/1DV407/raw/master/Workshop%203/Sent%20Reviews/Kristoffer%20Lind.pdf)
