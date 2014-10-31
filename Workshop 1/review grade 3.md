@@ -1,7 +1,7 @@
-# Workshop1 - Dom‰nmodellering
+# Workshop1 - Dom√§nmodellering
 
-## Dom‰nmodellering enligt problembeskrivning fˆr betyg 3.
-[Dom‰nmodel](../pics/grade3.JPG)
+## Dom√§nmodellering enligt problembeskrivning f√∂r betyg 3.
+![Dom√§nmodel](https://raw.githubusercontent.com/Grenmyr/Portfolio-Objektorienteradanalys/master/pics/grade3.JPG)
 
 ### Complementing text to domain model grade 3
 
