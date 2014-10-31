@@ -1,7 +1,7 @@
-# Workshop1 - Dom‰nmodellering.
+# Workshop1 - Dom√§nmodellering.
 
-## Dom‰nmodellering enligt problembeskrivning fˆr betyg 4.
-[Dom‰nmodel](../pics/grade4.png)
+## Dom√§nmodellering enligt problembeskrivning f√∂r betyg 4.
+![Dom√§nmodel](https://raw.githubusercontent.com/Grenmyr/Portfolio-Objektorienteradanalys/master/pics/grade4.png)
 
 ### Complementing text to domain model grade 4 this text is a complementing text to the one about grade 3 above.
 In this model we decided to add the attribute - active for our Boat object. It describes if the boat is currently
