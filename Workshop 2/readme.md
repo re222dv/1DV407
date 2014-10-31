@@ -5,6 +5,20 @@
 - Rasmus Eneman
 - Sherief Badran
 
+## Executable File
+[zip link](https://github.com/SheriefBadran/1DV407_Portfolio/raw/master/Release.zip)
+
+## Diagrams
+### Class Diagram
+![ClassDiagram](https://raw.githubusercontent.com/re222dv/1DV407/master/Workshop%202/class%20diagram.jpg)
+### Sequence Diagram
+[Sequence Diagram Collection](https://github.com/re222dv/1DV407/blob/master/Workshop%202/sequence%20diagrams/readme.md)
+
+## Code
+- [Sherief badran (C#, peer reviwed version)](https://github.com/SheriefBadran/1DV407Workshop2)
+- [David Grenmyr (C#)](https://github.com/Grenmyr/1DV407Workshop2)
+- [Rasmus version (Dart)](https://github.com/re222dv/1DV407-Workshop2)
+
 ## Patterns
 - Information Expert
 - Dependency Injection
@@ -28,3 +42,7 @@ Dart is an asyncronous language and thus the database library returns future res
 however as it isn't done the Dart version of the program is forced to handle futures by for example using `Future.doWhile`
 instead of simple `while` or `do while` loops. This makes the program harder to read and thus we have to conclude
 that Dart, at least for now, isn't well suited for this kind of programs.
+
+## Peer Reviews
+### Received
+- [Juhani Aavanen](
