@@ -50,11 +50,6 @@ The association /parked is derived from the History object.
 
 The new attributes in the Payment-object are added to the diagram for the sake of payment history.
 
-
-## Comments
-- [Grade 3](review grade 3.md)
-- [Grade 4](review grade 4.md)
-
 ## Peer Reviews
 ### Received
 *TODO*
