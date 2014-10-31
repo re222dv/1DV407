@@ -1,4 +1,4 @@
-# Boad Club Design
+# Workshop 2 - Boad Club Design
 
 ## Authors
 - David Grenmyr
@@ -45,4 +45,8 @@ that Dart, at least for now, isn't well suited for this kind of programs.
 
 ## Peer Reviews
 ### Received
-- [Juhani Aavanen](
+- [Juhani Aavanen](https://github.com/re222dv/1DV407/raw/master/Workshop%202/Received%20Reviews/Juhani%20Aavanen.pdf)
+- [Robert Hallink](https://github.com/re222dv/1DV407/raw/master/Workshop%202/Received%20Reviews/Robert%20Hallink.pdf) This group did unfortunately not get access to our sourcecode or diagrams becouse of a miss in the hand in.
+### Sent
+- [Christoffer Holmgren](https://github.com/re222dv/1DV407/raw/master/Workshop%202/Sent%20Reviews/Christoffer%20Holmgren.pdf)
+- [Sandra Hansson](https://github.com/re222dv/1DV407/raw/master/Workshop%202/Sent%20Reviews/Sandra%20Hansson.pdf)

@@ -1,13 +1,19 @@
-# Workshop1 - Domänmodellering
+# Workshop 1
 
-## Domänmodellering enligt problembeskrivning för betyg 3.
-![Domänmodel](https://raw.githubusercontent.com/Grenmyr/Portfolio-Objektorienteradanalys/master/pics/grade3.JPG)
+## Authors
+- David Grenmyr
+- Rasmus Eneman
+- Sherief Badran
 
-### Complementing text to domain model grade 3
+## Grade 3
+### Domain Model
+![Domain model](https://raw.githubusercontent.com/Grenmyr/Portfolio-Objektorienteradanalys/master/pics/grade3.JPG)
+
+### Complementing comments
 
 The attribute /charge on Member object is derived from firstly a mandatory member fee
 and a floating fee based on the amount of boat parking and the ParkingLot size.
-/charge = member fee +(boat(s)*size).
+`/charge = member fee +(boat(s)*size)`.
 
 We have added a Size object which handle compare about boats and a their size relative to
 the ParkingLot of the boats to give a good matching from a size perspective. And since Member and
@@ -27,3 +33,31 @@ solution that is accessed through the secretary Role from other model.
 
 Note: In the diagram the association names are placed near the bottom instead of the center because of
 limitations in the yUML drawing tool.
+
+## Grade 4
+### Domain Model
+![Domain model](https://raw.githubusercontent.com/Grenmyr/Portfolio-Objektorienteradanalys/master/pics/grade4.png)
+
+### Complementing comments
+
+In this model we decided to add the attribute - active for our Boat object. It describes if the boat is currently
+owned by the member. This will be communicated to our employer.
+
+Object History is yearly data containing Boats and Parkinglot objects).
+It is there for our system to show the Parkinglot history. System will need that when handle bookings
+based on current and historical data.
+The association /parked is derived from the History object.
+
+The new attributes in the Payment-object are added to the diagram for the sake of payment history.
+
+
+## Comments
+- [Grade 3](review grade 3.md)
+- [Grade 4](review grade 4.md)
+
+## Peer Reviews
+### Received
+*TODO*
+### Sent
+- [Loseff](Sent Reviews/Loseff.md)
+- [Shahriar](Sent Reviews/Shahriar.md)
