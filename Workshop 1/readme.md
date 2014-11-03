@@ -52,7 +52,9 @@ The new attributes in the Payment-object are added to the diagram for the sake o
 
 ## Peer Reviews
 ### Received
-*TODO*
+- [Robert Hallink](Received Reviews/Robert Hallink.pdf)
+- [Tobias Holst](Received Reviews/Tobias Holstr.md)
+
 ### Sent
 - [Loseff](Sent Reviews/Loseff.md)
 - [Shahriar](Sent Reviews/Shahriar.md)
