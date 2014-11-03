@@ -56,5 +56,5 @@ The new attributes in the Payment-object are added to the diagram for the sake o
 - [Tobias Holst](Received Reviews/Tobias Holst.md)
 
 ### Sent
-- [Loseff](Sent Reviews/Loseff.md)
-- [Shahriar](Sent Reviews/Shahriar.md)
+- [Loseff Griffith](Sent Reviews/Loseff.md)
+- [Shahriar Derhami](Sent Reviews/Shahriar.md)
